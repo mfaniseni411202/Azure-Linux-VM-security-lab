@@ -157,7 +157,7 @@ OS Disk
 Best Practice Established: Always delete at Resource Group level for complete resource lifecycle management.
 
  Screenshot 6: Resource Group Deletion Confirmation
-![NSG DEeletion](06-cleanup.png)
+![NSG Deletion](06-cleanup.png)
 
  Skills Demonstrated & Career Relevance
 Technical Competencies:
