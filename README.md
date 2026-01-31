@@ -67,13 +67,13 @@ ssh -i Mfaniseni-VM.pem azureuser@102.133.161.26
 The authenticity of host '102.133.161.26' can't be established...
 Are you sure you want to continue connecting (yes/no)? yes
  Screenshot 1: Resource Group Creation & Naming Convention
-![Resource Group Configuration](01-resource-group.png)
+![Resource Group Configuration](01-resource-group.png.png)
 
  Screenshot 2: SSH Key Pair Generation Interface
- ![SSH Key Setup](02-ssh-key-config.png)
+ ![SSH Key Setup](02-ssh-key-config.png.png)
 
  Screenshot 5: Successful SSH Connection Terminal
-![SSH Success](05-ssh-success.png)
+![SSH Success](05-ssh-success.png.png)
 
  Technical Discovery & Validation
 Credential Pattern Investigation:
@@ -93,10 +93,10 @@ Key Insight:
 Cloud platforms evolve authentication methods, requiring technicians to validate current behavior rather than relying solely on historical documentation.
 
  Screenshot 3: NSG Configuration with SSH Rule
-![NSG Config](03-nsg-configuration.png)
+![NSG Config](03-nsg-configuration.png.png)
 
  Screenshot 4: Key Download Confirmation Dialog
-![Key Download](04-key-download.png)
+![Key Download](04-key-download.png.png)
 
 Security Architecture
 Network Security Group Configuration:
@@ -157,7 +157,7 @@ OS Disk
 Best Practice Established: Always delete at Resource Group level for complete resource lifecycle management.
 
  Screenshot 6: Resource Group Deletion Confirmation
-![NSG Deletion](06-cleanup.png)
+![NSG Deletion](06-cleanup.png.png)
 
  Skills Demonstrated & Career Relevance
 Technical Competencies:
