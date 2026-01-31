@@ -67,7 +67,7 @@ ssh -i Mfaniseni-VM.pem azureuser@102.133.161.26
 The authenticity of host '102.133.161.26' can't be established...
 Are you sure you want to continue connecting (yes/no)? yes
  Screenshot 1: Resource Group Creation & Naming Convention
-https://01-resource-group.png
+01-resource-group.png
 
  Screenshot 2: SSH Key Pair Generation Interface
 https://02-ssh-key-config.png
