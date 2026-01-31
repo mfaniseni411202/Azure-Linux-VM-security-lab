@@ -199,3 +199,7 @@ Security Level	Basic (Industry baseline)	Enhanced (Industry standard)
 Access Method	GUI Remote Desktop	CLI Terminal
 Skill Development	Cloud Fundamentals	Security Best Practices
 Progression Demonstrated: From basic cloud VM deployment to security-focused implementation.
+
+Author
+Name: Banele Ndlanzi
+Focus Area: Cloud Security
