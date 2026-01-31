@@ -1,6 +1,6 @@
  Azure Linux VM Deployment with SSH Key Authentication
 
- 📌 Project Overview
+  Project Overview
 This project demonstrates secure deployment of an Ubuntu Linux VM in Azure using industry-standard SSH key authentication. The focus was on implementing security best practices, understanding cloud authentication methods, and documenting the complete infrastructure lifecycle.
 
 **All resources were properly deleted at Resource Group level to ensure cost optimization and cloud hygiene.**
@@ -67,13 +67,13 @@ ssh -i Mfaniseni-VM.pem azureuser@102.133.161.26
 The authenticity of host '102.133.161.26' can't be established...
 Are you sure you want to continue connecting (yes/no)? yes
  Screenshot 1: Resource Group Creation & Naming Convention
-01-resource-group.png
+![Resource Group Configuration](01-resource-group.png)
 
  Screenshot 2: SSH Key Pair Generation Interface
-https://02-ssh-key-config.png
+ ![SSH Key Setup](02-ssh-key-config.png)
 
  Screenshot 5: Successful SSH Connection Terminal
-https://05-ssh-success.png
+![SSH Success](05-ssh-success.png)
 
  Technical Discovery & Validation
 Credential Pattern Investigation:
@@ -93,10 +93,10 @@ Key Insight:
 Cloud platforms evolve authentication methods, requiring technicians to validate current behavior rather than relying solely on historical documentation.
 
  Screenshot 3: NSG Configuration with SSH Rule
-https://03-nsg-configuration.png
+![NSG Config](03-nsg-configuration.png)
 
  Screenshot 4: Key Download Confirmation Dialog
-https://04-key-download.png
+![Key Download](04-key-download.png)
 
 Security Architecture
 Network Security Group Configuration:
@@ -157,7 +157,7 @@ OS Disk
 Best Practice Established: Always delete at Resource Group level for complete resource lifecycle management.
 
  Screenshot 6: Resource Group Deletion Confirmation
-https://06-cleanup.png
+![NSG DEeletion](06-cleanup.png)
 
  Skills Demonstrated & Career Relevance
 Technical Competencies:
